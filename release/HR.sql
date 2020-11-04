@@ -15,3 +15,5 @@ alter table tab_invisible_col modify uname invisible;
 select * from tab_invisible_col;
 
 drop table tab_invisible_col;
+
+appending in sql file to pull again
